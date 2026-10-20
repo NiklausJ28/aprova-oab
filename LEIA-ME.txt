@@ -1,0 +1,10 @@
+APROVA OAB — VERSÃO PWA PARA IPHONE, COM MODO OFFLINE
+
+1. Publique toda esta pasta em hospedagem HTTPS (ex.: GitHub Pages ou Netlify). Abrir index.html diretamente como arquivo não instala o PWA corretamente.
+2. No iPhone, abra o endereço publicado no Safari enquanto estiver conectado.
+3. Toque em Compartilhar > Adicionar à Tela de Início > Adicionar.
+4. Abra o ícone Aprova OAB enquanto estiver conectado, aguarde o carregamento e depois teste no modo avião.
+5. Questões autorais demonstrativas, correções e simulados funcionam offline. O desempenho é guardado no armazenamento local do aparelho. Evite apagar os dados do site se quiser preservar o histórico.
+6. Os links das provas oficiais da OAB dependem de internet. Para ler PDFs offline, faça download antecipado no aplicativo Arquivos do iPhone. PDFs NÃO estão incluídos neste pacote.
+7. O banco contém somente 5 questões autorais de demonstração, não provas oficiais importadas.
+8. Para distribuir pela App Store como aplicativo nativo, há um processo separado com Apple Developer, empacotamento e revisão da Apple.

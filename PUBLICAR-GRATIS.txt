@@ -1,0 +1,13 @@
+APROVA OAB - PUBLICAR GRATIS NO GITHUB PAGES
+
+1. Crie conta em https://github.com
+2. Crie um repositorio PUBLICO chamado aprova-oab.
+3. Clique em Add file > Upload files e envie OS ARQUIVOS E A PASTA icons deste ZIP (na raiz do repositorio, nao a pasta que os contem).
+4. Clique em Commit changes.
+5. Entre em Settings > Pages. Em Build and deployment escolha Deploy from a branch, branch main, pasta /(root), Save.
+6. Aguarde a publicacao. Seu endereco sera https://SEU-USUARIO.github.io/aprova-oab/
+7. No iPhone abra pelo Safari > Compartilhar > Adicionar a Tela de Inicio.
+8. No Android abra pelo Chrome > menu > Instalar app ou Adicionar a tela inicial.
+9. Abra o app conectado uma vez e depois teste no modo aviao.
+
+IMPORTANTE: o aplicativo PWA e gratis, mas NAO aparecera na App Store nem na Play Store. O acervo tem apenas 5 questoes demonstrativas. Links de provas oficiais dependem de internet. Dados de desempenho sao locais e podem ser perdidos se apagar dados do navegador. A instalacao e o modo offline dependem de HTTPS e de o navegador permitir service workers.
